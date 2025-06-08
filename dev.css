@@ -1,0 +1,93 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+#navbar{
+    color: black;
+
+}
+div{
+    color: black;
+}
+body{
+    color: black;
+    background-color:green ;
+    text-align: center;
+    background-image: url("C:\Users\sony\c:\Users\sony\Desktop\images (2).jfif");
+ 
+}
+header{
+    background-color: black;
+    padding:10px ;
+}
+a{
+    color: green;
+    margin: 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover {
+  background-color: rgba(129, 128, 125, 0.418);
+  font-size: 22px;
+}
+#logo{
+    color: green;
+    font-size: 25px;
+    border:2px green solid ;
+    margin:20px;
+    border-left: px;
+    border-radius: 10px;
+    padding:7px;
+}
+button{
+    border-radius: 4px;
+    background-color:green;
+    border-spacing: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    border:1px green solid;
+    
+}
+#search{
+    padding: 5px;
+    background-color: green;
+    border-radius: 10px;
+        border:1px green solid;
+}
+#one{
+    background-color: green;
+    color:white;
+    padding: 2px 75px;
+}
+h1{
+    font-family: Monospace  ;
+}
+h3{
+        font-family: Monospace  ;
+}
+fieldset{
+    margin: 10px;
+    padding: -100px 10px;
+}
+input{
+    padding: 6px 20px;
+    background-color: green;
+   
+}
+#one{
+    background-color: ;
+    color:black;
+    border-color:whitesmoke;
+    padding: 7px;
+    margin: 10px;
+}
+.wrapper {
+ 
+  border-radius: 8px;
+ border-color: red;
+  text-align: center;
+  border: 1px;
+   backdrop-filter: blur(8px);
+ 
+}
